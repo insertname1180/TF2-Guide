@@ -27,3 +27,4 @@ This TF2W page has a bigger list (duh) that will give you a taste of what's comm
 Remember that knowledge is power. If you know how to do something, you dont need to ask anyone to do it for yourself, you'll be able to do it, and you'll do it even better.
 
 https://wiki.teamfortress.com/wiki/Console_commands
+https://developer.valvesoftware.com/wiki/TF2_cvarlist

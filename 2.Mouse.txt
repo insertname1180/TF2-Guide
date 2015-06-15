@@ -1,0 +1,22 @@
+#2 - Mouse Settings
+====================
+
+2.1 - Recommended:
+-------------------
+
+These settings are recommended by the grandfathers of pro gaming.
+I say recommended because it really comes down to personal preference. There are Comp TF2 players (like kaidus, with m_rawinput 0 and mouse accel) that use different settings. BUT they're here for a reason, they'll help improve your aim and consistency over time!
+
+*m_rawinput "b" (0/1)
+*m_customaccel "b"
+*m_customaccel_exponent "b"
+*m_customaccel_max "b"
+*m_customaccel_scale "b"
+*m_filter "b"
+*m_forward "b"
+*m_mouseaccel1 "b"
+*m_mouseaccel2 "b"
+*m_mousespeed "b"
+*m_pitch 
+*m_side 
+*m_yaw 
