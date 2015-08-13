@@ -4,3 +4,5 @@ This repo will include the .md/.txt files (one file for each section of the guid
 Later will add the Steam link here.
 
 If you'd like to get involved: [TF2 Steam Guide - TeamFortress.tv](http://www.teamfortress.tv/26085/tf2-steam-guide)
+
+Start reading [here](./Intro.md).
