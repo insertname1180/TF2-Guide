@@ -1,5 +1,7 @@
 #1 - The Beginning
+
 ##1.1 - Commands everyone should know
+
 Here's a great video made by _Tagg_ explaning all the basic commands everyone should know: [TF2 Beginner Console Commands - by Tagg](https://youtu.be/jYqjabM4TrM "Ask Tagg: Episode 1 - TF2 Beginner Console Commands")
 
 Below is the list of the commands shown in the vid and a few more details.
@@ -20,11 +22,16 @@ Below is the list of the commands shown in the vid and a few more details.
 
 NOTE: After the _Gun Mettle_ update some of these commands' default values were changed to the optimal value.
 
-##1.2 - More commands
-These TF2Wiki and Valve pages have a bigger list of commands (as one would expect) that will give you a taste of what's comming in the configuring section.
+##1.2 - More Commands
+
+These _TF2Wiki_ and _Valve Developer Community_ pages have some info on the console, in case you're not familiar with it yet, and a bigger list of commands (as one would expect) that will give you a taste of what's comming in the configuring and scripting sections.
 
 Remember that knowledge is power. If you know how to do something, you don't need anyone to do it for you, you'll be able to do it yourself! (and even better I must say)
 
-[Console - Official TF2Wiki](https://wiki.teamfortress.com/wiki/Console_commands "TF2W Console Commands")
+[Console - Official TF2Wiki](https://wiki.teamfortress.com/wiki/Console_commands "Console Commands - TF2W")
 
-[TF2 cvarlist - Valve Developer Community](https://developer.valvesoftware.com/wiki/TF2_cvarlist "Valve Dev Com cvarlist")
+[List of Useful Commands - Official TF2Wiki](https://wiki.teamfortress.com/wiki/List_of_useful_console_commands "List of Useful Commands - TF2W")
+
+[TF2 cvarlist - Valve Developer Community](https://developer.valvesoftware.com/wiki/TF2_cvarlist "cvarlist - VDC")
+
+[List of TF2 console commands and variables - Valve Developer Community](https://developer.valvesoftware.com/wiki/List_of_TF2_console_commands_and_variables "List of TF2 Console Commands and Variables - VDC")

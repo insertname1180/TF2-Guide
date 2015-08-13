@@ -1,7 +1,9 @@
 #2 - Mouse Settings
+
 First, you should know there isn't a miracle way to improve your aim, so this section is more about letting you know of (good) ways to practice your aim.
 
 ##2.1 - Recommended
+
 These settings are widely used and recommended by Comp TF2 players and the grandfathers of pro gaming.
 I say recommended because it really comes down to personal preference. Some Comp TF2 players (like kaidus) use different settings. BUT they're here for a reason, in general they should help improve your aim and consistency over time!
 
@@ -21,6 +23,7 @@ I say recommended because it really comes down to personal preference. Some Comp
 * m_yaw "x" //
 
 ##2.2 - Finding the Right Sensitivity
+
 There are many ways to find the sensitivity you're more comfortable with, like tracking a fixed spot while moving, at different distances, while you adjust the sensitivity. Here I'll link some guides that I've read/watched and other people suggested. I must point out that, being TF2 an FPS, heavily aiming focused, most "sensitivity guides" for other FPS games should also apply for TF2 (and vice-versa). Although, if you're comming from other FPS games and care for your aim you probably already know this.
 
 Let's get to the guides:
@@ -30,6 +33,7 @@ This is a good guide made by a(n) (ex-)professional Wolf:ET player, before he le
 * «taking suggestions»
 
 ##2.3 - Actually Improving your Aim
+
 Read/watch and follow those guides and **Practice, practice, practice**... Do some _MGE_ (My Gaming Edge), _DM_ (DeathMatch), _1vs1_/_1vs2_/_1vs3_/... Just play, in general. You won't get anywhere if you _think_ you're doing it right, only if you actually **DO** it right! And the only way to know if you're doing it right is by playing!
 This might sound like a _cliché_, but after you practice for a while, go practice some more!
 Jumping (solly and demo) also helped me getting more comfortable moving my mouse and aiming at awkward places, so if you don't jump already, try it out.
