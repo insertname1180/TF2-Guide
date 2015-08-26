@@ -5,4 +5,4 @@ Later will add the Steam link here.
 
 If you'd like to get involved: [TF2 Steam Guide - TeamFortress.tv](http://www.teamfortress.tv/26085/tf2-steam-guide)
 
-Start reading [here](./Intro.md).
+Start reading [here](./Intro.md) or [here](http://siiky.github.io/TF2-Steam-Guide/).
