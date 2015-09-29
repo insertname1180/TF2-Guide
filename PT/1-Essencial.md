@@ -2,7 +2,7 @@
 
 ## 1.1 - Comandos que todos deviam saber
 
-Aqui está um bom vídeo do _Tagg_ a explicar os comandos que toda a gente devia saber: [TF2 Beginner Console Commands - by Tagg](https://youtu.be/jYqjabM4TrM "Ask Tagg: Episode 1 - TF2 Beginner Console Commands")
+Aqui está um bom vídeo do _Tagg_ a explicar os comandos que toda a gente devia saber: [TF2 Beginner Console Commands - by _Tagg_](https://youtu.be/jYqjabM4TrM "Ask Tagg: Episode 1 - TF2 Beginner Console Commands")
 
 Abaixo está a lista com os comandos que aparecem no vídeo e mais alguns detalhes.
 ```source-scripting
