@@ -7,7 +7,7 @@ Later will add the Steam link here.
 
 If you'd like to get involved: [TF2 Steam Guide - TeamFortress.tv](http://www.teamfortress.tv/26085/tf2-steam-guide)
 
-Start reading [here](./EN/Intro.md) or [here](http://siiky.github.io/TF2-Steam-Guide/EN/Intro.md.html).
+Start reading [here](./EN/Intro.md) or [here](http://siiky.github.io/TF2-Guide/EN/Intro.md.html).
 
 # PT
 ## Guia de TF2
@@ -16,4 +16,4 @@ Um guia sobre configurar e customizar o TF2. Este repositório vai ter os fichei
 
 Se quiseres ajudar: [TF2 Steam Guide - TeamFortress.tv](http://www.teamfortress.tv/26085/tf2-steam-guide)
 
-Começa a ler [aqui](./PT/Intro.md) ou [aqui](http://siiky.github.io/TF2-Steam-Guide/PT/Intro.md.html).
+Começa a ler [aqui](./PT/Intro.md) ou [aqui](http://siiky.github.io/TF2-Guide/PT/Intro.md.html).
